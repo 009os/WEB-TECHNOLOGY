@@ -1,0 +1,192 @@
+.o1 {
+    color: red;
+}
+
+.o2 {
+    color: blue
+}
+
+.o3 {
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 20px;
+    color: #090;
+    text-align: center;
+}
+
+.o4 {
+    text-align: right;
+}
+
+.o5 {
+    color: gold;
+}
+
+.o6 {
+    color: black;
+}
+
+.o7 {
+    background-color: rgb(225, 128, 128);
+    color: rgb(15, 95, 95);
+
+}
+
+.o8 {
+    background-color: rgb(219, 219, 136);
+    color: rgb(15, 95, 95);
+}
+
+.o9 {
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+.img {
+    opacity: 0.5;
+}
+
+.o10 {
+    background-color: whitesmoke;
+}
+
+.o11 {
+    border: 5px solid black;
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 20px;
+    color: #090;
+    text-align: center;
+}
+
+.o12 {
+    background-color: rgb(204, 179, 179);
+    color: aliceblue;
+    width: 340px;
+    height: 43px;
+}
+
+.o13 {
+    background-color: rgb(233, 164, 164);
+    color: rgb(0, 0, 0);
+    width: 130px;
+    height: 35px;
+}
+
+button {
+    color: wheat;
+    font-size: 25px;
+    outline: none;
+    background-color: green;
+    box-shadow: 8px 9px rgb(124, 125, 125);
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+button:active {
+    transform: translateY(5px);
+    box-shadow: 1px 4px rgb(105, 105, 105);
+    background-color: rgb(75, 46, 7);
+}
+
+.cal {
+    text-align: center;
+    color: rgb(57, 242, 66);
+    width: 30rem;
+    margin-top: 10%;
+    box-shadow: 0px 11px 30px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(3.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 25px;
+    min-height: 450px;
+}
+
+.cal1 {
+    text-align: center;
+    color: rgb(2, 33, 4);
+    width: 60rem;
+    margin-top: 2%;
+    box-shadow: 0px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(5.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 25px;
+    min-height: 450px;
+}
+
+.cal2 {
+    text-align: center;
+    color: rgb(17, 87, 22);
+    width: 30rem;
+    margin-top: 2%;
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(0.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 25px;
+    min-height: 450px;
+}
+
+.cal3 {
+    text-align: center;
+    color: rgb(17, 87, 22);
+    margin-top: 2%;
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(0.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 25px;
+    width: 700px;
+    height: 100px;
+}
+
+.cal4 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 2%;
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(0.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 2px;
+    width: 200px;
+    height: 200px;
+}
+
+.cal5 {
+
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(9.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 2px;
+    width: 900px;
+    height: 130px;
+}
+
+.cal6 {
+
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(9.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 2px;
+    width: 360px;
+    height: 40px;
+}
+
+.cal7 {
+
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 31px 70px 0px rgb(0, 0, 0);
+    backdrop-filter: blur(9.5px);
+    background: linear-gradient(to right buttom, rgb);
+    border-radius: 10px;
+    padding: 2px;
+    width: 1500px;
+    height: 50px;
+}
