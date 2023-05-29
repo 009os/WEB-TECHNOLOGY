@@ -20,7 +20,7 @@ background-repeat: no-repeat">
         <h1 class="o13"><b><i>ABOUT</i></b></h1>
     </center>
     <hr>
-    <center> <img class="cal4" src="mypic.jpg" width="200px" height="200px" border="10"></center>
+ 
     <br><br><br>
     <center>
         <p class="cal3"><b><i>Hi i am OMJI SHUKLA - MD and CEO of KHAREEDdaari.com.<br>NOW SHOPPING BECOMES MORE EASY
