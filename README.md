@@ -1,4 +1,4 @@
-# WEB-TECHNOLOGY
+# Basic WEB-TECHNOLOGY (College Assignment)
 
 A collection of web technology projects, examples, and resources for learning and development.  
 Covers HTML, CSS, JavaScript, and related modern web tools.
